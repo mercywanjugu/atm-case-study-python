@@ -1,0 +1,17 @@
+[
+  {
+    "id": "q1",
+    "category": "Geography",
+    "question": "What is the capital of France?",
+    "options": ["Paris", "Berlin", "Madrid", "Rome"],
+    "correctIndex": 0
+  },
+  {
+    "id": "q2",
+    "category": "Science",
+    "question": "What planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correctIndex": 1
+  }
+]
+
